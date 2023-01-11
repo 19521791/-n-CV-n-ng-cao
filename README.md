@@ -14,3 +14,5 @@
 <!-- <p><img align="left" alt="video" width="500" height="320" src="https://im3.ezgif.com/tmp/ezgif-3-10522b3522.gif"></p> -->
 
 ![ezgif-3-8a5c4b4caf](https://user-images.githubusercontent.com/79817900/211891175-b14a5782-5eee-41da-8212-b1050c3d848f.gif)
+
+<p>Link input video: <a target="_blank" href="https://www.youtube.com/watch?v=rOFo-bnWA9Q&t=2399s">from 31:37 to 31:47</a></p>
