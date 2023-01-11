@@ -9,3 +9,5 @@
 * Train images: [Here](https://drive.google.com/file/d/1Z--EwFiHjppfsHYbvT10ybxPDdaZPO4p/view?usp=sharing)
 * Labels: [Here](https://drive.google.com/file/d/1I59encbq9S9DkfHRV62OX4KPROHhyL_R/view?usp=sharing)
 <h3>This is a pre-trained model: <a target="_blank" href="https://github.com/mvirgo/MLND-Capstone">Author</a></h3>
+<h3>Video demo</h3>
+<p><img alt="video" width="500" height="320" src="https://im3.ezgif.com/tmp/ezgif-3-10522b3522.gif"></p>
