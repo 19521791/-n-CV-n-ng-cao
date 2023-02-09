@@ -12,6 +12,9 @@
 
 <p><b>Please see my report</b> <a target="_blank" href="https://drive.google.com/file/d/1Ba0UAdkFfKggyYmUpo4yfSDf91mYy_J-/view?usp=share_link">here</a></p>
 
+<h2>Network Architecture</h2>
+<img alt="Network Architecture" src="https://user-images.githubusercontent.com/79817900/217772831-084b967b-8f79-4e53-a915-202fd060b20b.png">
+
 <h3>Video demo</h3>
 <!-- <p><img align="left" alt="video" width="500" height="320" src="https://im3.ezgif.com/tmp/ezgif-3-10522b3522.gif"></p> -->
 
