@@ -15,7 +15,7 @@
 <h2>Network Architecture</h2>
 <img alt="Network Architecture" src="https://user-images.githubusercontent.com/79817900/217772831-084b967b-8f79-4e53-a915-202fd060b20b.png">
 
-<span align="center">Input </span> <img align="left" width="100" height="100" alt="input image" src="https://user-images.githubusercontent.com/79817900/217774831-2aa056c1-a4ff-4f94-8e10-af167aaebf3e.png">
+<span align="center">Input </span> <img align="right" width="400" height="400" alt="input image" src="https://user-images.githubusercontent.com/79817900/217774831-2aa056c1-a4ff-4f94-8e10-af167aaebf3e.png">
 
 <h3>Video demo</h3>
 <!-- <p><img align="left" alt="video" width="500" height="320" src="https://im3.ezgif.com/tmp/ezgif-3-10522b3522.gif"></p> -->
