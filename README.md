@@ -10,7 +10,7 @@
 <p>Train images: <a target="_blank" href="https://drive.google.com/file/d/1Z--EwFiHjppfsHYbvT10ybxPDdaZPO4p/view?usp=sharing">Here</a></p>
 <p>Labels:<a target="_blank" href="https://drive.google.com/file/d/1I59encbq9S9DkfHRV62OX4KPROHhyL_R/view?usp=sharing">Here</a></p>
 
-<p>Please see my report</p>
+<p><b>Please see my report</b> <a target="_blank" href="https://drive.google.com/drive/u/1/shared-with-me">here</a></p>
 
 <h3>Video demo</h3>
 <!-- <p><img align="left" alt="video" width="500" height="320" src="https://im3.ezgif.com/tmp/ezgif-3-10522b3522.gif"></p> -->
