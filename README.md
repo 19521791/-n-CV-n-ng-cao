@@ -1,6 +1,7 @@
 <h1 align="center">LANE DETECTION</h1>
 <h2>Introduction</h2>
-<p></p>
+<p>Lane detection is an important component of autonomous vehicle systems. Highway lane departure warning solutions have been on the market since the mid-1990s. However, improving and generalizing computer vision-based lane detection capabilities remains a challenge. A challenging and difficult task until recently.</p>
+<p>CNN - Convolutional Neural Network, also known as the convolutional neural network, is one of the advanced and widely used Deep Learning models in image and video processing problems. </p>
 <h3>Link source code if file Lane_Detection_Using_CNN not working <a target="_blank" href="https://colab.research.google.com/drive/1KQSA2xzih-2y9gdFWtRf9L-Pj4Y8BiFS?usp=sharing">Here</a></h3>
 <h2>Datasets</h2>
 <p>Train images: <a target="_blank" href="https://drive.google.com/file/d/1Z--EwFiHjppfsHYbvT10ybxPDdaZPO4p/view?usp=sharing">Here</a></p>
