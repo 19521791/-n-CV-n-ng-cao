@@ -10,7 +10,7 @@
 <h3>Dataset</h3>
 <h4>Images</h4>
 <p align="center">
-  <img width="750" height="300" src="image.png">
+  <img width="600" height="250" src="image.png">
 </p>
 <h3>Link source code if file Lane_Detection_Using_CNN not working <a target="_blank" href="https://colab.research.google.com/drive/1KQSA2xzih-2y9gdFWtRf9L-Pj4Y8BiFS?usp=sharing">Here</a></h3>
 
