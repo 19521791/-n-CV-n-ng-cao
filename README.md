@@ -12,6 +12,10 @@
 <p align="center">
   <img width="600" height="250" src="image.png">
 </p>
+<h4>Labels</h4>
+<p align="center">
+  <img src="label.png">
+</p>
 <h3>Link source code if file Lane_Detection_Using_CNN not working <a target="_blank" href="https://colab.research.google.com/drive/1KQSA2xzih-2y9gdFWtRf9L-Pj4Y8BiFS?usp=sharing">Here</a></h3>
 
 <p><b>Please see my report</b> <a target="_blank" href="https://drive.google.com/file/d/1Ba0UAdkFfKggyYmUpo4yfSDf91mYy_J-/view?usp=share_link">here</a></p>
