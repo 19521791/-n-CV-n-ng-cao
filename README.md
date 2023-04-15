@@ -24,14 +24,34 @@
 <ul>
   <li><b>Convolution</b>
     <ul>
-      <li>Input</li>
-      <li>Output</li>
+      <li>Input: A tensor</li>
+      <li>Output: A feature map</li>
     </ul>
   </li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li><b>MaxPooling2D</b>
+    <ul>
+      <li>Input: A tensor</li>
+      <li>Output: A tensor</li>
+    </ul>
+  </li>
+  <li><b>Dropout</b>
+    <ul>
+      <li>Input: A tensor</li>
+      <li>Output: A tensor</li>
+    </ul>
+  </li>
+  <li><b>Upsample</b>
+    <ul>
+      <li>Input: A tensor</li>
+      <li>Output: A tensor</li>
+    </ul>
+  </li>
+  <li><b>Conv2Dtranspose</b>
+    <ul>
+      <li>Input: A tensor</li>
+      <li>Output: A tensor</li>
+    </ul>
+  </li>
 </ul>
 <h3>Link source code if file Lane_Detection_Using_CNN not working <a target="_blank" href="https://colab.research.google.com/drive/1KQSA2xzih-2y9gdFWtRf9L-Pj4Y8BiFS?usp=sharing">Here</a></h3>
 <p><b>Please see my report</b> <a target="_blank" href="https://drive.google.com/file/d/1Ba0UAdkFfKggyYmUpo4yfSDf91mYy_J-/view?usp=share_link">here</a></p>
