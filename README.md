@@ -84,6 +84,8 @@
 </p>
 <h4>
 <h3>Video demo</h3>
-![ezgif-3-8a5c4b4caf](https://user-images.githubusercontent.com/79817900/211891175-b14a5782-5eee-41da-8212-b1050c3d848f.gif)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/79817900/211891175-b14a5782-5eee-41da-8212-b1050c3d848f.gif">
+</p>
 <p>One of the most beautiful roads in Vietnam, it is located next to Phan Thiet beach, Binh Thuan province.</p>
 <p>Link input video: <a target="_blank" href="https://www.youtube.com/watch?v=rOFo-bnWA9Q&t=2399s">from 31:37 to 31:47</a></p>
