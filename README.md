@@ -4,8 +4,9 @@
 <p>CNN - Convolutional Neural Network, also known as the convolutional neural network, is one of the advanced and widely used Deep Learning models in image and video processing problems. </p>
 <h2>Methods</h2>
 <h3>Network Architecture</h3>
-<img align="center" width="400" height="400" alt="Network Architecture" src="https://user-images.githubusercontent.com/79817900/217772831-084b967b-8f79-4e53-a915-202fd060b20b.png">
-
+<p>
+<img width="600" height="450" alt="Network Architecture" src="https://user-images.githubusercontent.com/79817900/217772831-084b967b-8f79-4e53-a915-202fd060b20b.png">
+</p>
 <h3>Link source code if file Lane_Detection_Using_CNN not working <a target="_blank" href="https://colab.research.google.com/drive/1KQSA2xzih-2y9gdFWtRf9L-Pj4Y8BiFS?usp=sharing">Here</a></h3>
 
 <p><b>Please see my report</b> <a target="_blank" href="https://drive.google.com/file/d/1Ba0UAdkFfKggyYmUpo4yfSDf91mYy_J-/view?usp=share_link">here</a></p>
