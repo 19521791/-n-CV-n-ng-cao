@@ -56,12 +56,20 @@
 <h2>Results</h2>
 <h3>Metrics</h3>
 <p>After 10 times of training with batch size 128, the model ends with MSE for training is 0.0077 and validation is 0.0072.</p>
-<p align="center">
+<p align="center">Tuning hyperparameter
   <img width="600" height="250" src="batch128.png">
 </p>
 <p align="center">
   <img width="600" height="250" src="result-128.png">
 </p>
+<ul>
+  <li><b>Accuracy</b>: 97.79%</li>
+  <li><b>Precision</b>: 98%</li>
+  <li><b>Recall</b>: 89%</li>
+  <li><b>F1-score</b>: 93%</li>
+  <li><b>IoU</b>: 87%</li>
+</ul>
+<h3>Tuning hyperparameter</h3>
 <h3>Link source code if file Lane_Detection_Using_CNN not working <a target="_blank" href="https://colab.research.google.com/drive/1KQSA2xzih-2y9gdFWtRf9L-Pj4Y8BiFS?usp=sharing">Here</a></h3>
 <p><b>Please see my report</b> <a target="_blank" href="https://drive.google.com/file/d/1Ba0UAdkFfKggyYmUpo4yfSDf91mYy_J-/view?usp=share_link">here</a></p>
 <p>Input: An image (80, 160, 3).</p>
