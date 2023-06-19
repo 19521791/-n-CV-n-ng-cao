@@ -41,7 +41,6 @@
     <ul>
       <li>Input: A tensor</li>
        <li>Purpose: Reduce input size</li>
-      
       <li>Output: A tensor</li>
     </ul>
   </li>
