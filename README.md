@@ -27,7 +27,7 @@
     <ul>
       <li>Input: A tensor</li>
       <li>Purpose: Extract feature</li>
-      <li>
+      <li> How it works:
         <ul>
           <li>An image matrix (volume) of dimension <b>(h x w x d)</b></li>
           <li>A filter <b>(f<sub>h</sub> x f<sub>w</sub> x d)</b></li>
