@@ -26,30 +26,42 @@
   <li><b>Convolution</b>
     <ul>
       <li>Input: A tensor</li>
+      <li>Purpose: Extract feature</li>
+      <li>
+        <ul>
+          <li>An image matrix (volume) of dimension <b>(h x w x d)</b></li>
+          <li>A filter <b>(f<sub>h</sub> x f<sub>w</sub> x d)</b></li>
+          <li>Outputs a volume dimension <b>(h - f<sub>h</sub> + 1) x (w -  f<sub>w</sub> + 1) x 1)</b></li>
+        </ul>
+      </li>
       <li>Output: A feature map</li>
     </ul>
   </li>
   <li><b>MaxPooling2D</b>
     <ul>
       <li>Input: A tensor</li>
+       <li>Purpose: Reduce input size</li>
       <li>Output: A tensor</li>
     </ul>
   </li>
   <li><b>Dropout</b>
     <ul>
       <li>Input: A tensor</li>
+      <li>Purpose: Reduce computing</li>
       <li>Output: A tensor</li>
     </ul>
   </li>
   <li><b>Upsample</b>
     <ul>
       <li>Input: A tensor</li>
+      <li>Purpose: Increase output size</li>
       <li>Output: A tensor</li>
     </ul>
   </li>
   <li><b>Conv2Dtranspose</b>
     <ul>
       <li>Input: A tensor</li>
+       <li>Purpose: Increase output size</li>
       <li>Output: A tensor</li>
     </ul>
   </li>
